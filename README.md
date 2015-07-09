@@ -1,6 +1,6 @@
 # HERA-Processor
 
-Final project for **CS 240: Principles of Computer Organization**
+Final project for **CS 240: Principles of Computer Organization**: A lecture + laboratory course studying the hierarchical design of modern digital computers: combinatorial and sequential logic design, memory and processor organization, instruction sets, assembly language, elements of operating systems, and parallel processing.
 
 Completed December 2014
 
